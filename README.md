@@ -1,6 +1,4 @@
-# CS425 MPs
-
-## MP1 Distributed Grep System
+## Distributed Grep System
 ### Build Instructions
 
 #### Install **boost**
